@@ -1,0 +1,24 @@
+<!DOCTYPE Randomizer_Configuration>
+<Randomizer_Configuration>
+ <gpl_accepted>true</gpl_accepted>
+ <selected_scr>c:\windows\system32\AcidRain.scr</selected_scr>
+ <selected_scr>c:\windows\system32\Crawlies.scr</selected_scr>
+ <selected_scr>c:\windows\system32\PlasmaLenz.scr</selected_scr>
+ <search_path>c:\windows\system32</search_path>
+ <timer_minutes>5</timer_minutes>
+ <timer_enabled>false</timer_enabled>
+ <random_enabled>true</random_enabled>
+ <blank_desktop>false</blank_desktop>
+ <scr_history_size>2</scr_history_size>
+ <scr_history>
+  <history_entry>
+   <path>c:\windows\system32\Crawlies.scr</path>
+   <location>0</location>
+  </history_entry>
+  <history_entry>
+   <path>c:\windows\system32\PlasmaLenz.scr</path>
+   <location>1</location>
+  </history_entry>
+ </scr_history>
+</Randomizer_Configuration>
+
