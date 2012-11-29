@@ -108,7 +108,7 @@
   <num_styles>3</num_styles>
   <rain_style>
    <rain_style_entry>
-    <palette>Red16</palette>
+    <palette>Blue16</palette>
     <min_length>-1</min_length>
     <max_length>-1</max_length>
     <thickness>1</thickness>
@@ -130,7 +130,7 @@
     <head_random_color>false</head_random_color>
    </rain_style_entry>
    <rain_style_entry>
-    <palette>Blue16</palette>
+    <palette>Red16</palette>
     <min_length>-1</min_length>
     <max_length>-1</max_length>
     <thickness>1</thickness>
@@ -154,29 +154,7 @@
   <num_styles>5</num_styles>
   <rain_style>
    <rain_style_entry>
-    <palette>Tuscan16_1</palette>
-    <min_length>-1</min_length>
-    <max_length>-1</max_length>
-    <thickness>1</thickness>
-    <min_initial_v>1</min_initial_v>
-    <max_initial_v>3</max_initial_v>
-    <palette_speed>1</palette_speed>
-    <head_constant_color>true</head_constant_color>
-    <head_random_color>false</head_random_color>
-   </rain_style_entry>
-   <rain_style_entry>
-    <palette>Tuscan16_2</palette>
-    <min_length>-1</min_length>
-    <max_length>-1</max_length>
-    <thickness>1</thickness>
-    <min_initial_v>1</min_initial_v>
-    <max_initial_v>3</max_initial_v>
-    <palette_speed>1</palette_speed>
-    <head_constant_color>true</head_constant_color>
-    <head_random_color>false</head_random_color>
-   </rain_style_entry>
-   <rain_style_entry>
-    <palette>Tuscan16_3</palette>
+    <palette>Tuscan16_5</palette>
     <min_length>-1</min_length>
     <max_length>-1</max_length>
     <thickness>1</thickness>
@@ -198,7 +176,29 @@
     <head_random_color>false</head_random_color>
    </rain_style_entry>
    <rain_style_entry>
-    <palette>Tuscan16_5</palette>
+    <palette>Tuscan16_3</palette>
+    <min_length>-1</min_length>
+    <max_length>-1</max_length>
+    <thickness>1</thickness>
+    <min_initial_v>1</min_initial_v>
+    <max_initial_v>3</max_initial_v>
+    <palette_speed>1</palette_speed>
+    <head_constant_color>true</head_constant_color>
+    <head_random_color>false</head_random_color>
+   </rain_style_entry>
+   <rain_style_entry>
+    <palette>Tuscan16_2</palette>
+    <min_length>-1</min_length>
+    <max_length>-1</max_length>
+    <thickness>1</thickness>
+    <min_initial_v>1</min_initial_v>
+    <max_initial_v>3</max_initial_v>
+    <palette_speed>1</palette_speed>
+    <head_constant_color>true</head_constant_color>
+    <head_random_color>false</head_random_color>
+   </rain_style_entry>
+   <rain_style_entry>
+    <palette>Tuscan16_1</palette>
     <min_length>-1</min_length>
     <max_length>-1</max_length>
     <thickness>1</thickness>
@@ -246,7 +246,7 @@
   <num_styles>3</num_styles>
   <rain_style>
    <rain_style_entry>
-    <palette>Steel16_1</palette>
+    <palette>Steel16_3</palette>
     <min_length>-1</min_length>
     <max_length>-1</max_length>
     <thickness>1</thickness>
@@ -268,7 +268,7 @@
     <head_random_color>false</head_random_color>
    </rain_style_entry>
    <rain_style_entry>
-    <palette>Steel16_3</palette>
+    <palette>Steel16_1</palette>
     <min_length>-1</min_length>
     <max_length>-1</max_length>
     <thickness>1</thickness>
@@ -1231,7 +1231,7 @@
  <master_profile_history_size>1</master_profile_history_size>
  <master_profile_history>
   <history_entry>
-   <name>Tuscan Gradient</name>
+   <name>Tuscan 16</name>
    <location>0</location>
   </history_entry>
  </master_profile_history>

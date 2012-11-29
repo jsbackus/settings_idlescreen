@@ -1020,7 +1020,7 @@
  <master_profile_history_size>3</master_profile_history_size>
  <master_profile_history>
   <history_entry>
-   <name>Fade RGB to CMY</name>
+   <name>Mono</name>
    <location>0</location>
   </history_entry>
   <history_entry>
@@ -1028,7 +1028,7 @@
    <location>1</location>
   </history_entry>
   <history_entry>
-   <name>Tuscan Right</name>
+   <name>RGB Highlights</name>
    <location>2</location>
   </history_entry>
  </master_profile_history>

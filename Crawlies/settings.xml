@@ -1213,23 +1213,23 @@
  <master_profile_history_size>5</master_profile_history_size>
  <master_profile_history>
   <history_entry>
-   <name>Tuscan16 Tiny</name>
+   <name>Steel Gradient Tiny</name>
    <location>0</location>
   </history_entry>
   <history_entry>
-   <name>Steel Gradient Tiny</name>
+   <name>RGB Mono Tiny</name>
    <location>1</location>
   </history_entry>
   <history_entry>
-   <name>RGB Mono Tiny</name>
+   <name>Tuscan16 Tiny</name>
    <location>2</location>
   </history_entry>
   <history_entry>
-   <name>Tuscan Gradient Tiny</name>
+   <name>Steel16 Tiny</name>
    <location>3</location>
   </history_entry>
   <history_entry>
-   <name>Steel16 Tiny</name>
+   <name>RGB Gradient Tiny</name>
    <location>4</location>
   </history_entry>
  </master_profile_history>
